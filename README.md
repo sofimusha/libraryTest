@@ -1,9 +1,9 @@
 #Library App
 
-##Description
+##Description:
 This project is NodeJS based web application which uses CRUD functionalities to offer books, comments and users management.
 
-##Features
+##Features:
 Add, Delete, Edit and read information about published posts.
 Create, delete and edit comments for each book.
 Upload books images.
@@ -12,7 +12,7 @@ Login as a registered user.
 Manage the user account.
 Search books based on specific keywords.
 
-##Local Installation
+##Local Installation:
 Clone the repository.
 Install the dependencies.
 Use cd _foldername_ to go into the folder conatining the project.
