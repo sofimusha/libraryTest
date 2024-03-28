@@ -2,6 +2,8 @@
 
 ##Description:
 This project is NodeJS based web application which uses CRUD functionalities to offer books, comments and users management.
+This project serves as the foundation for the completion of my final graduation thesis which will be build upon
+this web application.
 
 ##Features:
 Add, Delete, Edit and read information about published posts.
